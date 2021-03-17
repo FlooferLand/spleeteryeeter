@@ -10,6 +10,8 @@ Asks you for the path of the file, amount of stems you need, and exports the ste
 
 Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
 
+If you'd wish to request a feature or report a bug please do so at [Issues](https://github.com/flarfmatter/spleeteryeeter/issues)
+
 ## How to install
 Under the [Releases](https://github.com/flarfmatter/spleeteryeeter/releases) section there are pre-built Windows binaries available.
 
