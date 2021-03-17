@@ -22,7 +22,7 @@ I would personally recommend going with the Python install below however if you 
 4. Run `main.py` and type/paste in what it asks you to.
 
 ## How to build
-SpleeterYeeter is built with <a href="https://pypi.org/project/auto-py-to-exe">auto-py-to-exe</a>
+SpleeterYeeter's binaries are built with [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe)
 
 ## All credit goes to Deezer for making Spleeter
 SpleeterYeeter is just a wrapper of <a href="https://github.com/deezer/spleeter">Spleeter</a>, made so you could use Spleeter more comfortably.
