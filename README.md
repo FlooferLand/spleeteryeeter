@@ -11,7 +11,7 @@ Asks you for the path of the file, amount of stems you need, and exports the ste
 Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
 
 ## How to install
-Under the [Releases][https://github.com/flarfmatter/spleeteryeeter/releases] section there are pre-built Windows binaries available.
+Under the [Releases](https://github.com/flarfmatter/spleeteryeeter/releases) section there are pre-built Windows binaries available.
 
 I would personally recommend going with the Python install below however if you just wish to use the tool without modifying it the binaries are a great choice.
 
