@@ -8,6 +8,7 @@ Simple command-line interface for Spleeter.
 
 Asks you for the path of the file, amount of stems you need, and exports the stems.
 
+Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
 
 ## How to install
 1. Install a Python version over 3.6 and under 3.8 and remember the exact path where you installed the version.
@@ -17,9 +18,6 @@ Asks you for the path of the file, amount of stems you need, and exports the ste
 
 ## How to build
 SpleeterYeeter is built with <a href="https://pypi.org/project/auto-py-to-exe">auto-py-to-exe</a>
-
-
-Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
 
 ## All credit goes to Deezer for making Spleeter
 SpleeterYeeter is just a wrapper of <a href="https://github.com/deezer/spleeter">Spleeter</a>, made so you could use Spleeter more comfortably.
