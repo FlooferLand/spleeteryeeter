@@ -1,4 +1,6 @@
+<img src="https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/logo.svg" alt="SpleeterYeeter" height="80" />
 
+![From Python 3.6 to 3.8](https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/python_version.svg)
 
 Simple command-line interface for Spleeter.
 
