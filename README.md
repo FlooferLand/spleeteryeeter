@@ -15,6 +15,10 @@ Asks you for the path of the file, amount of stems you need, and exports the ste
 3. Download SpleeterYeeter, extract it somewhere, and add in the path to Python in `config.py`
 4. Run `main.py` and type/paste in what it asks you to.
 
+## How to build
+SpleeterYeeter is built with <a href="https://pypi.org/project/auto-py-to-exe">auto-py-to-exe</a>
+
+
 Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
 
 ## All credit goes to Deezer for making Spleeter
