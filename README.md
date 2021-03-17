@@ -25,4 +25,4 @@ I would personally recommend going with the Python install below however if you 
 SpleeterYeeter's binaries are built with [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe)
 
 ## All credit goes to Deezer for making Spleeter
-SpleeterYeeter is just a wrapper of <a href="https://github.com/deezer/spleeter">Spleeter</a>, made so you could use Spleeter more comfortably.
+SpleeterYeeter is just a wrapper of [Spleeter](https://github.com/deezer/spleeter), made so you could use Spleeter more comfortably.
