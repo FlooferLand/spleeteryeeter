@@ -9,8 +9,8 @@ Asks you for the path of the file, amount of stems you need, and exports the ste
 
 ## How to install
 1. Install a Python version over 3.6 and under 3.8 and remember the exact path where you installed the version.
-2. After installing Python type in `"(your_python_path)" -m pip install spleeter` in your terminal (your_python_path) being replaced by the path to Python 3.7.9
-3. Download SpleeterYeeter, extract it somewhere, and  add in the path to Python 3.7.9 in `config.py`
+2. After installing Python type in `"(your_python_path)" -m pip install spleeter` in your terminal (your_python_path) being replaced by the Python path
+3. Download SpleeterYeeter, extract it somewhere, and add in the path to Python in `config.py`
 4. Run `main.py` and type/paste in what it asks you to.
 
 Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
