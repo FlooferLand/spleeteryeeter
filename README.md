@@ -1,4 +1,4 @@
-<a href="#"> <img src="https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/logo.svg" alt="SpleeterYeeter" height="80"/> </a>
+<img src="https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/logo.svg" alt="SpleeterYeeter" height="80"/>
 <a href="https://www.python.org/"> <img src="https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/python_version.svg" alt="From Python 3.6 to 3.8"> </a>
 
 Simple command-line interface for Spleeter.
