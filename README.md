@@ -1,8 +1,8 @@
 <img src="https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/logo.svg" alt="SpleeterYeeter" height="80"/>
 <a href="https://www.python.org/"> <img src="https://github.com/flarfmatter/spleeteryeeter/blob/main/other/art/python_version.svg" alt="From Python 3.6 to 3.8"> </a>
+<br>
 
 Simple command-line interface for Spleeter.
-
 Asks you for the path of the file, amount of stems you need, and exports the stems.
 
 
