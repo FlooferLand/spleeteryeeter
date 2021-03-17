@@ -18,4 +18,4 @@ Asks you for the path of the file, amount of stems you need, and exports the ste
 Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
 
 ## All credit goes to Deezer for making Spleeter
-SpleeterYeeter is just a wrapper of Spleeter, allowing you to use Spleeter more comfortably as you don't have to type in a long command that makes no sense.
+SpleeterYeeter is just a wrapper of <a href="https://github.com/deezer/spleeter">Spleeter</a>, allowing you to use Spleeter more comfortably as you don't have to type in a long command that makes no sense.
