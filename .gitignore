@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Spleeter stuff
+pretrained_models/
+exports/
+
+# Editors
+.idea/
+.vscode/
