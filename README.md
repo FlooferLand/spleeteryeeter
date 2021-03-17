@@ -4,13 +4,9 @@
 <br/>
 
 
-Simple command-line interface for Spleeter.
+Simple command-line interface for Spleeter. Asks you for the path of the file, amount of stems you need, and automagically exports the stems to the `exports` directory in your extracted SpleeterYeeter.
 
-Asks you for the path of the file, amount of stems you need, and exports the stems.
-
-Stems are automagically exported to the `exports` directory in your extracted SpleeterYeeter
-
-If you'd wish to request a feature or report a bug please do so at [Issues](https://github.com/flarfmatter/spleeteryeeter/issues)
+If you'd wish to request a feature or report a bug please do so at [Issues](https://github.com/flarfmatter/spleeteryeeter/issues) and if you wish to contribute to the project please do so however you may.
 
 ## How to install
 Under the [Releases](https://github.com/flarfmatter/spleeteryeeter/releases) section there are pre-built Windows binaries available.
